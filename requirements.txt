@@ -4,9 +4,5 @@ xgboost
 pandas
 numpy
 matplotlib
-<<<<<<< HEAD
-scikit-learn
-=======
 scikit-learn
 openpyxl
->>>>>>> 586e22805ea1eb97fba89cc41449c3bbf549bd3b
